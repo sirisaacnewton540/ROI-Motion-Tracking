@@ -2,6 +2,9 @@
 
 This project demonstrates a real-time object tracking system using histogram backprojection and the mean shift algorithm. The system allows a user to select a region of interest (ROI) in a video stream, and then tracks that object as it moves within the frame.
 
+## Results
+![GIFMaker_edge](https://github.com/user-attachments/assets/d35da176-c97d-4ddf-9cee-00d6ef1f07f2)
+
 ## Features
 - **Object Selection:** Users can select an object by clicking and dragging to define an initial ROI.
 
